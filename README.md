@@ -10,3 +10,4 @@ Front-end developer passionate about technology and learning new development too
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Graphql](https://img.shields.io/badge/-Graphql-df0397?logo=graphql&style=for-the-badge)
