@@ -16,4 +16,14 @@ Front-end developer passionate about technology and learning new development too
 
 
 ## Follow me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/dssaenz/)
+<p>
+   <a href="https://www.linkedin.com/in/dssaenz/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Dssaenz" height="26px" width="26px" />
+  </a>
+  <a href="https://www.instagram.com/darwin_saenz105/" target="blank" style='margin:0 10px 0 10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Dssaenz" height="28px" width="28px" />
+  </a>
+  <a href="https://www.facebook.com/darwinsteven.saenzsuarez" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="Dssaenz" height="28px" width="28px" />
+  </a>
+</p>
