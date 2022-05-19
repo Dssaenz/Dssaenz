@@ -14,6 +14,9 @@ Front-end developer passionate about technology and learning new development too
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dssaenz&hide=contribs&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dssaenz&layout=compact&theme=tokyonight)
 
 ## Follow me
 <p>
