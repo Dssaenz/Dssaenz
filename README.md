@@ -1,4 +1,4 @@
-### Hi 🤟, I'm Darwin
+### Hi! 🤟, I'm Darwin Saenz
 
 ## About me
 Front-end developer passionate about technology and learning new development tools.
