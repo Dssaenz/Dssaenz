@@ -16,7 +16,7 @@ Front-end developer passionate about technology and learning new development too
 
 ## Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dssaenz&hide=contribs&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dssaenz&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dssaenz&layout=compact&theme=tokyonight)
 
 ## Follow me
 <p>
